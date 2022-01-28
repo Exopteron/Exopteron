@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hey, I'm Exo! 👋
+⚡ Fun fact:
+I hate writing in the first person.
 <!--
 **Exopteron/Exopteron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
