@@ -1,6 +1,8 @@
 ### Hey, I'm Exo! 👋
 ⚡ Fun fact:
 I hate writing in the first person.
+
+![](https://img.shields.io/badge/Isn't_this_quite-fancy!-informational?style=flat&logo=rust&logoColor=white&color=ffffff)
 <!--
 **Exopteron/Exopteron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
